@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GDX Toolkit
+Bundle-SymbolicName: GDXToolkit;singleton:=true
+Bundle-Version: 0.0.1
+Bundle-Activator: gdxtoolkit.Activator
+Bundle-Vendor: Filip Wieland
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
